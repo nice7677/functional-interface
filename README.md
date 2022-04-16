@@ -19,4 +19,4 @@ functional interface 공부하기
 - BiPredicate
   - BiPredicate는 2개의 인자를 받고 boolean을 리턴하는 함수형 인터페이스입니다.
 - Supplier
-  - 매개변수X, 반환값O
+  - Supplier는 인자를 받지 않고 Type T 객체를 리턴하는 함수형 인터페이스입니다.
