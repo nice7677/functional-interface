@@ -16,5 +16,7 @@ functional interface 공부하기
   - BiFunction은 2개의 인자(Type T, U)를 받고 1개의 객체(Type R)를 리턴하는 함수형 인터페이스입니다.
 - Predicate
   - Predicate는 Type T 인자를 받고 boolean을 리턴하는 함수형 인터페이스입니다.
+- BiPredicate
+  - BiPredicate는 2개의 인자를 받고 boolean을 리턴하는 함수형 인터페이스입니다.
 - Supplier
   - 매개변수X, 반환값O
